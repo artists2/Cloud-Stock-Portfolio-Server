@@ -1,0 +1,6 @@
+aiohttp~=3.7.2
+cx_Oracle~=7.2.3
+beautifulsoup4~=4.6.0
+fastapi~=0.62.0
+apscheduler~=3.6.3
+pydantic~=1.7.3
